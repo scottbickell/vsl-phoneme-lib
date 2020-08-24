@@ -1,0 +1,39 @@
+h1 {
+    font-size: 3em;
+    font-weight: 300;
+}
+
+.phenome-character {
+    font-family: Georgia, serif;
+}
+
+.phoneme {
+    position: relative;
+    margin-bottom: 30px;
+    border:#cccccc solid 1px;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.phoneme h2, h4.modal-title {
+    font-family: Georgia, serif;
+    font-weight: normal;
+    font-size: 2.5em;
+    margin: .25em 0 1em 0;
+    letter-spacing: 1px;
+}
+
+.phoneme p {
+    height: 65px;
+}
+
+.fa-play-circle {
+    font-size: 18px;
+}
+
+.fa-play-circle.display-link:after {
+    font-family: sans-serif;
+    content: ' PLAY VIDEO';
+}
+
+
