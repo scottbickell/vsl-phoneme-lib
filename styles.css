@@ -23,6 +23,11 @@ h1 {
     letter-spacing: 1px;
 }
 
+.phoneme h2 .smaller {
+    display: block;
+    font-size: 1em;
+}
+
 .phoneme p {
     height: 65px;
 }
