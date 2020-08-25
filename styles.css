@@ -41,4 +41,8 @@ h1 {
     content: ' PLAY VIDEO';
 }
 
+.video-id {
+    font-family: monospace;
+}
+
 
